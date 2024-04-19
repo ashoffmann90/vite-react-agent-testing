@@ -29,16 +29,16 @@ export default function Root() {
           <nav>
             <ul>
               <li>
-                <a href={`/contacts/1`}>Your Name</a>
+                <a href={`/vite-react-agent-testing/contacts/1`}>Your Name</a>
               </li>
               <li>
-                <a href={`/contacts/2`}>Your Friend</a>
+                <a href={`/vite-react-agent-testing/contacts/2`}>Your Friend</a>
               </li>
             </ul>
           </nav>
         </div>
         <div id="detail"></div>
-        <a href={`/ho-&amp;-me`}>Home with ampersand to test to broken links bug</a>
+        <a href={`/vite-react-agent-testing/ho-&amp;-me`}>Home with ampersand to test to broken links bug</a>
       </>
     );
   }

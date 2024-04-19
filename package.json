@@ -2,6 +2,7 @@
   "name": "vite-react-micro-test",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://ashoffmann90.github.io/vite-react-agent-testing/",
   "type": "module",
   "scripts": {
     "dev": "vite",
