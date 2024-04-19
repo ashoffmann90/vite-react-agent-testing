@@ -41,16 +41,16 @@ new BrowserAgent(options)
 
 const router = createBrowserRouter([
   {
-    path: "/vite-react-agent-testing",
+    path: "/",
     element: <Root />,
     errorElement: <ErrorPage />,
   },
   {
-    path: "/vite-react-agent-testing/contacts/:contactId",
+    path: "/contacts/:contactId",
     element: <Contact />,
   },
   {
-    path: "/vite-react-agent-testing/ho-&amp;-me",
+    path: "/ho-&amp;-me",
     element: <Home/>
   }
 ]);
