@@ -1,6 +1,8 @@
 export default function Root() {
     return (
       <>
+              <a href={`/ho-&amp;-me`}>Home with ampersand to test to broken links bug</a>
+
         <div id="sidebar">
           <h1>React Router Contacts</h1>
           <div>
