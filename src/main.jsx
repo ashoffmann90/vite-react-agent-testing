@@ -50,7 +50,7 @@ const router = createBrowserRouter([
     element: <Contact />,
   },
   {
-    path: "/ho-&amp;-me",
+    path: "/stanley-&amp;-stella-sa",
     element: <Home/>
   }
 ]);

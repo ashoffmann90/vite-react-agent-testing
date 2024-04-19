@@ -40,7 +40,7 @@ export default function Root() {
           </nav>
         </div>
         <div id="detail"></div>
-        <a href={`/ho-&amp;-me`}>Home with ampersand to test to broken links bug</a>
+        <a href={`/stanley-&amp;-stella-sa`}>Home with ampersand to test to broken links bug</a>
       </>
     );
   }
